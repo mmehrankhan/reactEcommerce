@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.beaich{
+    @apply flex justify-center items-center;
+}
+.mobile{
+    @apply w-[350px] h-[auto];
+}
